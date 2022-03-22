@@ -1,13 +1,13 @@
 
 # Instrução
 
-Como instalar 
+- Como instalar 
 
-- npm i 
+> npm i 
 
-Como executar
+- Como executar
 
-- npm run develop
+> npm run develop
 
 
 
