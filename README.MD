@@ -11,7 +11,7 @@
 
 
 
-# Outras implementação que irei adicionar durante a semana.
+# Outras implementação que irei adicionar futuramente.
 
 - Markplace
 
